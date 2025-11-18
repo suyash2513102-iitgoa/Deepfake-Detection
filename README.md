@@ -1,4 +1,6 @@
 - The Project Consists of Excecuted Colab Files containing the Output 
-- the Model Selection Contains the Models Which are trained and validated on 50% of the dataset
-- the performance of the system is plotted in the file
-- the Datase
+- The ModelSelection.ipynb Contains the Models Which are trained and validated on 50% of the dataset
+- The performance of the system is plotted in the file
+- The Deepfake_Extraction.ipynb File contains the code for extraction of frames From the videoFolders From the Drive
+- The DeepfakeDetection_final.ipynb contains the code for model training, visualisation and demo
+- The remaining 2 files are the report and presentaion for the project
