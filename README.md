@@ -1,0 +1,4 @@
+- The Project Consists of Excecuted Colab Files containing the Output 
+- the Model Selection Contains the Models Which are trained and validated on 50% of the dataset
+- the performance of the system is plotted in the file
+- the Datase
